@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+:var{
+    --tobo-primary:rgb(17, 169, 234);
+    --tobo-purple:rgba(176, 16, 176, 0.562);
+    --tobo-viola:rgba(222, 9, 222, 0.884);
+    --tobo-orange:orange;
+    --tobo-green:green;
+    --tobo-watergreen:rgb(14, 230, 165);
+}
