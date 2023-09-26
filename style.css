@@ -1,3 +1,4 @@
+/*start proget*/
 *{
     padding: 0;
     margin: 0;
@@ -10,4 +11,120 @@
     --tobo-orange:orange;
     --tobo-green:green;
     --tobo-watergreen:rgb(14, 230, 165);
+    --tobo-white:rgba(255, 255, 255, 0.993);
+}
+.style_h2{
+    color: black;
+    font-size: xxx-large;
+    margin-left: 150px;
+    padding: 20px;
+}
+
+/*header change*/
+.inside_header{
+    background-color:white;
+    margin: 16px;
+    
+}
+.logo{
+    width: 150px;    
+}
+.h1_style{
+    display: inline;
+    font-size: 100px;
+}
+/*body change*/
+body{
+    background-color: #e6e6e6;
+}
+/*main change*/
+#inside_main{
+    background-color: rgba(192, 192, 192, 0.123);
+    width: 60%;
+    margin: auto;
+}
+/*section button and imput*/
+.sec_button{
+    margin-top: 80px;
+    font-size: xx-large;
+    color: white;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 5px;
+    
+}
+.style-button{
+    width: 50%%;
+    margin: auto;
+    background-color: blue;
+    margin-left: 150px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    font-size: xx-large;
+    color: white;
+}
+.input_style{
+    font-size: xx-large;
+    border-radius: 8px;
+}
+/*section task*/
+.section_task{
+    color: black;
+    background-color: white;
+    height: 750px;
+}
+.d_flex{
+    display: flex;
+    margin-left: 180px;
+    font-size: x-large;
+    margin-top: 10px;
+}
+.b_blu{
+    background:rgb(17, 169, 234);
+    margin-left: 10px;
+    border-radius: 30%;
+    padding: 10px;
+}
+.b_viola{
+    background:rgba(176, 16, 176, 0.562);
+    margin-left: 10px;
+    border-radius: 30%;
+    padding: 10px;
+
+}
+.b_water_green{
+    background:rgb(14, 230, 165);
+    margin-left: 10px;
+    border-radius: 30%;
+    padding: 10px;
+}
+.b_orange{
+    background:orange;
+    margin-left: 10px;
+    border-radius: 30%;
+    padding: 10px;
+}
+.b_fuchsia{
+    background:rgba(222, 9, 222, 0.884);
+    margin-left: 10px;
+    border-radius: 30%;
+    padding: 10px;
+}
+.b_green{
+    background:green;
+    margin-left: 10px;
+    border-radius: 30%;
+    padding: 10px;
+}
+/*footer*/
+
+#inside_footer{
+    background-color:rgb(14, 183, 141);
+    margin: 16px;  
+}
+.h_footer{
+    display: inline;
+    font-size: 80px;
 }
